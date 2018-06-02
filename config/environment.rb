@@ -6,3 +6,4 @@ require "bundler/setup"
 # require "awesome_print"
 
 # bundler.require(:default)
+Bundler.require(:default, :development)
