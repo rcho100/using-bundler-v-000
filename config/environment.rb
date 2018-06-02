@@ -5,4 +5,4 @@ require "bundler/setup"
 # require "octokit"
 # require "awesome_print"
 
-require :default, :development
+bundler.require(:default)
